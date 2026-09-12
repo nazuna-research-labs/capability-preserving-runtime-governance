@@ -1,6 +1,6 @@
 # Project Name: Capability-Preserving Runtime Governance
 
-## Subtitle: 
+## Subtitle: Preserving AI Capability While Governing Permission, Authority, and Action
 
 ```yaml
 project_initiated_at: 2026-09-12 18:13:05 JST
